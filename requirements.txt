@@ -1,0 +1,12 @@
+numpy
+tensorflow
+matplotlib
+streamlit
+os
+pillow
+keras
+pickle-mixin
+seaborn
+pandas
+scikit_learn
+opencv_python_headless
